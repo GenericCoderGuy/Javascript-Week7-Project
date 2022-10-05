@@ -1,0 +1,40 @@
+{
+    "quiz1": [
+        {
+            "id": "q1",
+            "number": "Question: 1",
+            "theQuestion": "1+1",
+            "correctAnswer": "b",
+            "answers": {
+                "answer1": "1",
+                "answer2": "2",
+                "answer3": "3",
+                "answer4": "4"
+            }
+        },
+        {
+            "id": "q2",
+            "number": "Question: 2",
+            "theQuestion": "apple banana lemon or grapes",
+            "correctAnswer": "c",
+            "answers": {
+                "answer1": "apple",
+                "answer2": "banana",
+                "answer3": "lemon",
+                "answer4": "grapes"
+            }
+        },
+        {
+            "id": "q3",
+            "number": "Question: 3",
+            "theQuestion": "pc console mobile or none",
+            "correctAnswer": "a",
+            "answers": {
+                "answer1": "pc",
+                "answer2": "console",
+                "answer3": "mobile",
+                "answer4": "none"
+            }
+        }
+    ]
+}
